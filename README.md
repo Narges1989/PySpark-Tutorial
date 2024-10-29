@@ -1,6 +1,6 @@
 # PySpark Learning
 
-This repository contains a Jupyter Notebook, `pysparklearning.ipynb`, which serves as an introduction to PySpark. It covers various fundamental operations and transformations in PySpark, showcasing how to work with distributed data using Python and Spark.
+This repository contains a Jupyter Notebook, `PySparkLearning.ipynb`, which serves as an introduction to PySpark. It covers various fundamental operations and transformations in PySpark, showcasing how to work with distributed data using Python and Spark.
 
 ## Table of Contents
 
